@@ -1,0 +1,81 @@
+com.app.weather.app-viewpager2-1.0.0-0 /Users/wael.ahmed/.gradle/caches/transforms-4/045eca815c8ae2be6d7d7ef46a9ab021/transformed/viewpager2-1.0.0/res
+com.app.weather.app-core-ktx-1.13.1-1 /Users/wael.ahmed/.gradle/caches/transforms-4/0b4fcad59902386e8572ede47968c7cd/transformed/core-ktx-1.13.1/res
+com.app.weather.app-lifecycle-livedata-2.7.0-2 /Users/wael.ahmed/.gradle/caches/transforms-4/11d4cc6b9dcd768a1bc148d1e794b638/transformed/lifecycle-livedata-2.7.0/res
+com.app.weather.app-ui-geometry-release-3 /Users/wael.ahmed/.gradle/caches/transforms-4/11e467142b1e6584b05683973eb3a039/transformed/ui-geometry-release/res
+com.app.weather.app-fragment-1.6.0-4 /Users/wael.ahmed/.gradle/caches/transforms-4/16e742977006ba5d635c59eed7d701ba/transformed/fragment-1.6.0/res
+com.app.weather.app-drawerlayout-1.1.1-5 /Users/wael.ahmed/.gradle/caches/transforms-4/260ec7fc00a907bd2bf30c9382930e09/transformed/drawerlayout-1.1.1/res
+com.app.weather.app-library-4.0.0-6 /Users/wael.ahmed/.gradle/caches/transforms-4/29818ba780ecd6ef4691012508d80b9d/transformed/library-4.0.0/res
+com.app.weather.app-ui-tooling-data-release-7 /Users/wael.ahmed/.gradle/caches/transforms-4/2b05599c88dc913e0cee0f8cf21788c9/transformed/ui-tooling-data-release/res
+com.app.weather.app-play-services-base-18.5.0-8 /Users/wael.ahmed/.gradle/caches/transforms-4/2c5c288ebf84380bccfcf249775be6cf/transformed/play-services-base-18.5.0/res
+com.app.weather.app-sqlite-2.3.1-9 /Users/wael.ahmed/.gradle/caches/transforms-4/2e4a99eb221bbd419407f96c0b4b6a26/transformed/sqlite-2.3.1/res
+com.app.weather.app-lifecycle-viewmodel-ktx-2.7.0-10 /Users/wael.ahmed/.gradle/caches/transforms-4/35ddbd7f62ebd58f4adffb55bd083b90/transformed/lifecycle-viewmodel-ktx-2.7.0/res
+com.app.weather.app-material-ripple-release-11 /Users/wael.ahmed/.gradle/caches/transforms-4/3657a2d093fc207356bf96b4c089492a/transformed/material-ripple-release/res
+com.app.weather.app-material-icons-core-release-12 /Users/wael.ahmed/.gradle/caches/transforms-4/372a679d2f043f6905fd822522b4200f/transformed/material-icons-core-release/res
+com.app.weather.app-recyclerview-1.1.0-13 /Users/wael.ahmed/.gradle/caches/transforms-4/3c8fb6f6bafd1c2f4917c06dc85dea94/transformed/recyclerview-1.1.0/res
+com.app.weather.app-navigation-runtime-ktx-2.5.1-14 /Users/wael.ahmed/.gradle/caches/transforms-4/3f4a05fb12b5995e3b046a71f9f1e6dd/transformed/navigation-runtime-ktx-2.5.1/res
+com.app.weather.app-ui-util-release-15 /Users/wael.ahmed/.gradle/caches/transforms-4/408b2d5eee662a7245069c8e51c823e6/transformed/ui-util-release/res
+com.app.weather.app-savedstate-ktx-1.2.1-16 /Users/wael.ahmed/.gradle/caches/transforms-4/43a8d4f32928bd5905d5f6a353869e9f/transformed/savedstate-ktx-1.2.1/res
+com.app.weather.app-runtime-release-17 /Users/wael.ahmed/.gradle/caches/transforms-4/453486546e720b4ce2872406c22dc7a5/transformed/runtime-release/res
+com.app.weather.app-material-1.9.0-18 /Users/wael.ahmed/.gradle/caches/transforms-4/4556645747cb9d8dc1ef3800d390bbfa/transformed/material-1.9.0/res
+com.app.weather.app-navigation-common-2.5.1-19 /Users/wael.ahmed/.gradle/caches/transforms-4/4617beb8922ddfd9f20df566254cac30/transformed/navigation-common-2.5.1/res
+com.app.weather.app-ui-release-20 /Users/wael.ahmed/.gradle/caches/transforms-4/4631217c2e150c0ba65dcf5a3d600da2/transformed/ui-release/res
+com.app.weather.app-lifecycle-viewmodel-savedstate-2.7.0-21 /Users/wael.ahmed/.gradle/caches/transforms-4/47bdff10c1183d40d8947799ea6b2cd1/transformed/lifecycle-viewmodel-savedstate-2.7.0/res
+com.app.weather.app-startup-runtime-1.1.1-22 /Users/wael.ahmed/.gradle/caches/transforms-4/4826f925d7be6b2c1acc352d03fed69c/transformed/startup-runtime-1.1.1/res
+com.app.weather.app-profileinstaller-1.3.1-23 /Users/wael.ahmed/.gradle/caches/transforms-4/490c0e284af6d043b8ced23754cd2463/transformed/profileinstaller-1.3.1/res
+com.app.weather.app-lifecycle-viewmodel-2.7.0-24 /Users/wael.ahmed/.gradle/caches/transforms-4/52e9db2bf0aead060980f0bd0366c59d/transformed/lifecycle-viewmodel-2.7.0/res
+com.app.weather.app-hilt-navigation-1.2.0-25 /Users/wael.ahmed/.gradle/caches/transforms-4/5732103c752ea11d2227bd7baa067eb4/transformed/hilt-navigation-1.2.0/res
+com.app.weather.app-lifecycle-runtime-2.7.0-26 /Users/wael.ahmed/.gradle/caches/transforms-4/580aa064aa00862b17987c84fc3bcf72/transformed/lifecycle-runtime-2.7.0/res
+com.app.weather.app-sqlite-framework-2.3.1-27 /Users/wael.ahmed/.gradle/caches/transforms-4/58c2f418b736e02a2dee0cacf5b9e84e/transformed/sqlite-framework-2.3.1/res
+com.app.weather.app-coil-base-2.6.0-28 /Users/wael.ahmed/.gradle/caches/transforms-4/5a183bbb1417ce4aa3a98af36da1716a/transformed/coil-base-2.6.0/res
+com.app.weather.app-constraintlayout-2.1.4-29 /Users/wael.ahmed/.gradle/caches/transforms-4/5c5f2692f35dfc96574af5b4facbb77e/transformed/constraintlayout-2.1.4/res
+com.app.weather.app-runtime-saveable-release-30 /Users/wael.ahmed/.gradle/caches/transforms-4/60cb4dbe91c725c85188ddb2438aff50/transformed/runtime-saveable-release/res
+com.app.weather.app-lifecycle-livedata-core-2.7.0-31 /Users/wael.ahmed/.gradle/caches/transforms-4/6eccb43d7e837f44355d131abb85055e/transformed/lifecycle-livedata-core-2.7.0/res
+com.app.weather.app-material3-release-32 /Users/wael.ahmed/.gradle/caches/transforms-4/70363d4c64498e91628bec8b18724e06/transformed/material3-release/res
+com.app.weather.app-lifecycle-livedata-core-ktx-2.7.0-33 /Users/wael.ahmed/.gradle/caches/transforms-4/70a5a27592b742a681624fec91def86c/transformed/lifecycle-livedata-core-ktx-2.7.0/res
+com.app.weather.app-lifecycle-runtime-compose-2.7.0-34 /Users/wael.ahmed/.gradle/caches/transforms-4/7173aaf9325877f8c1af8fccb0c6f2b6/transformed/lifecycle-runtime-compose-2.7.0/res
+com.app.weather.app-ui-text-release-35 /Users/wael.ahmed/.gradle/caches/transforms-4/7cc0a88e6afd0b61260fd9054fb229b0/transformed/ui-text-release/res
+com.app.weather.app-room-runtime-2.5.2-36 /Users/wael.ahmed/.gradle/caches/transforms-4/848d20146dce97b298b33cbc7ba9f799/transformed/room-runtime-2.5.2/res
+com.app.weather.app-animation-release-37 /Users/wael.ahmed/.gradle/caches/transforms-4/880ee2adc19944da2086ebc101056a97/transformed/animation-release/res
+com.app.weather.app-play-services-basement-18.4.0-38 /Users/wael.ahmed/.gradle/caches/transforms-4/898f1694d6d61b21d8e7e798b87b2301/transformed/play-services-basement-18.4.0/res
+com.app.weather.app-ui-unit-release-39 /Users/wael.ahmed/.gradle/caches/transforms-4/8fa685918e4c761795a66c1bd896ca9c/transformed/ui-unit-release/res
+com.app.weather.app-lifecycle-viewmodel-compose-2.7.0-40 /Users/wael.ahmed/.gradle/caches/transforms-4/9440aa4339948041b77b37f724929eb9/transformed/lifecycle-viewmodel-compose-2.7.0/res
+com.app.weather.app-coordinatorlayout-1.1.0-41 /Users/wael.ahmed/.gradle/caches/transforms-4/94787ada573e8d2a960d52a962661b8d/transformed/coordinatorlayout-1.1.0/res
+com.app.weather.app-lifecycle-process-2.7.0-42 /Users/wael.ahmed/.gradle/caches/transforms-4/94bb832f80157eeeb3fb2a2c394dc4f3/transformed/lifecycle-process-2.7.0/res
+com.app.weather.app-hilt-navigation-compose-1.2.0-43 /Users/wael.ahmed/.gradle/caches/transforms-4/9b19294344b4579ab39e0c9ec915375c/transformed/hilt-navigation-compose-1.2.0/res
+com.app.weather.app-cardview-1.0.0-44 /Users/wael.ahmed/.gradle/caches/transforms-4/9df7ea89640d2f02ad55ba3d6eb4300a/transformed/cardview-1.0.0/res
+com.app.weather.app-lifecycle-runtime-ktx-2.7.0-45 /Users/wael.ahmed/.gradle/caches/transforms-4/a24a9b97244aa6bc2559a0a6d56743a7/transformed/lifecycle-runtime-ktx-2.7.0/res
+com.app.weather.app-ui-tooling-release-46 /Users/wael.ahmed/.gradle/caches/transforms-4/ab6a156b9462d086256f17bba1c3bf4f/transformed/ui-tooling-release/res
+com.app.weather.app-core-runtime-2.2.0-47 /Users/wael.ahmed/.gradle/caches/transforms-4/ae0298ee9cef624a647dfedd1512906e/transformed/core-runtime-2.2.0/res
+com.app.weather.app-customview-poolingcontainer-1.0.0-48 /Users/wael.ahmed/.gradle/caches/transforms-4/af74c3a82e45925a1ccbccf13f3c0910/transformed/customview-poolingcontainer-1.0.0/res
+com.app.weather.app-emoji2-views-helper-1.3.0-49 /Users/wael.ahmed/.gradle/caches/transforms-4/b251758392429d660af3deec54c42e74/transformed/emoji2-views-helper-1.3.0/res
+com.app.weather.app-lifecycle-livedata-ktx-2.7.0-50 /Users/wael.ahmed/.gradle/caches/transforms-4/b7a503d6da5cbb92de99b615845814e7/transformed/lifecycle-livedata-ktx-2.7.0/res
+com.app.weather.app-ui-tooling-preview-release-51 /Users/wael.ahmed/.gradle/caches/transforms-4/bc52dbe4b4932cb0eec2fb4c6dddc5bc/transformed/ui-tooling-preview-release/res
+com.app.weather.app-annotation-experimental-1.4.0-52 /Users/wael.ahmed/.gradle/caches/transforms-4/c110c4ba713e0a599ab14daa016ea90f/transformed/annotation-experimental-1.4.0/res
+com.app.weather.app-core-1.13.1-53 /Users/wael.ahmed/.gradle/caches/transforms-4/c29563a5bb0b2cbaa9965c3674fd01ea/transformed/core-1.13.1/res
+com.app.weather.app-foundation-layout-release-54 /Users/wael.ahmed/.gradle/caches/transforms-4/cc6a5a0323c08a9d4e005fb6cac52b1d/transformed/foundation-layout-release/res
+com.app.weather.app-ui-test-manifest-1.6.7-55 /Users/wael.ahmed/.gradle/caches/transforms-4/d2e1a5813f6b35dcd2c5d0ffffef84c4/transformed/ui-test-manifest-1.6.7/res
+com.app.weather.app-appcompat-resources-1.6.1-56 /Users/wael.ahmed/.gradle/caches/transforms-4/d416d640a42f7280109999b45799bf5e/transformed/appcompat-resources-1.6.1/res
+com.app.weather.app-animation-core-release-57 /Users/wael.ahmed/.gradle/caches/transforms-4/d4e9a806c03b2153ceeaba78354e6a08/transformed/animation-core-release/res
+com.app.weather.app-appcompat-1.6.1-58 /Users/wael.ahmed/.gradle/caches/transforms-4/d69689f16a1cd6b53526de241f371042/transformed/appcompat-1.6.1/res
+com.app.weather.app-emoji2-1.3.0-59 /Users/wael.ahmed/.gradle/caches/transforms-4/d896c2470bde604c871123e5b34779da/transformed/emoji2-1.3.0/res
+com.app.weather.app-fragment-ktx-1.6.0-60 /Users/wael.ahmed/.gradle/caches/transforms-4/dd53a869d398460ab5e36bc5dc2d6669/transformed/fragment-ktx-1.6.0/res
+com.app.weather.app-navigation-runtime-2.5.1-61 /Users/wael.ahmed/.gradle/caches/transforms-4/e1a09e818a8977ef097418a95cc6f6f1/transformed/navigation-runtime-2.5.1/res
+com.app.weather.app-foundation-release-62 /Users/wael.ahmed/.gradle/caches/transforms-4/e1c32561131a29d6466845dad48395d6/transformed/foundation-release/res
+com.app.weather.app-navigation-common-ktx-2.5.1-63 /Users/wael.ahmed/.gradle/caches/transforms-4/e1f92ab168d09e5691b53c374a3eda5e/transformed/navigation-common-ktx-2.5.1/res
+com.app.weather.app-room-ktx-2.5.2-64 /Users/wael.ahmed/.gradle/caches/transforms-4/e30ff5ba2e59852ab47d49d0ceda1173/transformed/room-ktx-2.5.2/res
+com.app.weather.app-activity-1.9.0-65 /Users/wael.ahmed/.gradle/caches/transforms-4/e5b3ff4f31c166bea258e015e07b4822/transformed/activity-1.9.0/res
+com.app.weather.app-material-release-66 /Users/wael.ahmed/.gradle/caches/transforms-4/e5dfdbecc7b25c0b6364e13da95f187b/transformed/material-release/res
+com.app.weather.app-transition-1.2.0-67 /Users/wael.ahmed/.gradle/caches/transforms-4/e7e99038b8a0b0c56ada36a715220676/transformed/transition-1.2.0/res
+com.app.weather.app-ui-graphics-release-68 /Users/wael.ahmed/.gradle/caches/transforms-4/f29a8ebe3c88cd2974bfe136989b3c86/transformed/ui-graphics-release/res
+com.app.weather.app-navigation-compose-2.5.1-69 /Users/wael.ahmed/.gradle/caches/transforms-4/f306fbba6c095254f7f74502e999a8d8/transformed/navigation-compose-2.5.1/res
+com.app.weather.app-activity-ktx-1.9.0-70 /Users/wael.ahmed/.gradle/caches/transforms-4/f7f2bf0be9fdd94dd3867761563a92c8/transformed/activity-ktx-1.9.0/res
+com.app.weather.app-activity-compose-1.9.0-71 /Users/wael.ahmed/.gradle/caches/transforms-4/fe6f5b1420f79e8b96074250e76d73b0/transformed/activity-compose-1.9.0/res
+com.app.weather.app-savedstate-1.2.1-72 /Users/wael.ahmed/.gradle/caches/transforms-4/fed366e50243a0891a408cfef117b4af/transformed/savedstate-1.2.1/res
+com.app.weather.app-staging-73 /Users/wael.ahmed/Android Samples/weather/weather/app/build/generated/res/resValues/staging/debug
+com.app.weather.app-packageStagingDebugResources-74 /Users/wael.ahmed/Android Samples/weather/weather/app/build/intermediates/incremental/stagingDebug/packageStagingDebugResources/merged.dir
+com.app.weather.app-packageStagingDebugResources-75 /Users/wael.ahmed/Android Samples/weather/weather/app/build/intermediates/incremental/stagingDebug/packageStagingDebugResources/stripped.dir
+com.app.weather.app-stagingDebug-76 /Users/wael.ahmed/Android Samples/weather/weather/app/build/intermediates/merged_res/stagingDebug/mergeStagingDebugResources
+com.app.weather.app-debug-77 /Users/wael.ahmed/Android Samples/weather/weather/app/src/debug/res
+com.app.weather.app-main-78 /Users/wael.ahmed/Android Samples/weather/weather/app/src/main/res
+com.app.weather.app-staging-79 /Users/wael.ahmed/Android Samples/weather/weather/app/src/staging/res
+com.app.weather.app-stagingDebug-80 /Users/wael.ahmed/Android Samples/weather/weather/app/src/stagingDebug/res
